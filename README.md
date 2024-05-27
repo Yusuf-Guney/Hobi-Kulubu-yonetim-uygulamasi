@@ -40,26 +40,10 @@ Kullanıcı şifreleri, PHP'nin password_hash fonksiyonu kullanılarak hashlenmi
 Ayrıca, oturum yönetimi için PHP oturumları kullanılmış ve kullanıcıların güvenli bir şekilde giriş yapması sağlanmıştır.
 XAMPP Kurulumu ve Yapılandırması
 
-
 ### Hobi Kulübü Yönetim Sistemi'ni XAMPP üzerinde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+#### Adım 1
+XAMPP'a giriniz ve Apache ve MYSQL'i başlatınız.
 
-#### XAMPP'i İndirme ve Kurulum:
-
-XAMPP'ı Apache Friends sitesinden indirin ve bilgisayarınıza kurun.
-
-####  XAMPP'i Başlatma:
-
-XAMPP Kontrol Panelini açın ve Apache ile MySQL servislerini başlatın.
-
-#### Proje Dosyalarını XAMPP'e Taşıma:
-Proje dosyalarınızı XAMPP'ın htdocs dizinine taşıyın. Örneğin, proje dizininiz hobi_kulubu ise, C:\xampp\htdocs\hobi_kulubu gibi bir yola kopyalayın.
-
-#### Veritabanı Oluşturma ve Yapılandırma:
-Web tarayıcınızda http://localhost/phpmyadmin adresine gidin.
-phpMyAdmin anasayfasında, "New" sekmesine tıklayın ve kullanici_kayit adında yeni bir veritabanı oluşturun.
-Yeni veritabanına tıklayın ve SQL sekmesine gidin. Daha önce sağladığınız Tabloya_Veri_Ekleme.sql dosyasındaki SQL komutlarını kopyalayın ve buraya yapıştırarak çalıştırın. 
-Bu, gerekli tabloları oluşturacaktır.
-Etkinlik tablosunu da eklemek için etkinlik.sql dosyasındaki SQL komutlarını kopyalayın ve SQL sekmesine yapıştırın.
 
 #### Tarayıcıda Projeye Erişim:
 Web tarayıcınızda http://localhost/hobi_kulubu/giris.php adresine giderek projeye erişebilirsiniz.
@@ -67,4 +51,4 @@ Web tarayıcınızda http://localhost/hobi_kulubu/giris.php adresine giderek pro
 ![](Ornek_Kod_Gorseli.jpg)
 
 * [Hobi Kulübü Uygulaması](http://95.130.171.20/~st22360859041/giris.php) - Bu linkten Host ettiğimiz hobi kulübü uygulamamıza ulaşabilirsiniz.
-* * [Habi Kulübü Uygulaması Tanıtım Videosu](https://www.youtube.com/watch?v=pcRtn8Rx_kk&t=6s) - Programın çalışmasına gösteren örnek videoya da yandaki linkten ulaşabilirsiniz
+* [Hobi Kulübü Uygulaması Tanıtım Videosu](https://www.youtube.com/watch?v=pcRtn8Rx_kk&t=6s) - Programın çalışmasına gösteren örnek videoya da yandaki linkten ulaşabilirsiniz
