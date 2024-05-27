@@ -52,10 +52,10 @@ Proje dosyalarınızı XAMPP'ın htdocs dizinine kopyalayın. Örneğin, proje d
 Web tarayıcınızda http://localhost/phpmyadmin adresine gidin.
 
 ### Adım 4 
-Phpmyadmin de sql sekmesine tıklayın ve github sayfasında bulunan Tabloya_Veri_Ekleme.sql ve Etkinlikler.sql sorgularını çalıştırın.
-![](/Veri_Tabanina_Erisim/2.png)
-![](/Veri_Tabanina_Erisim/3.png)
-![](/Veri_Tabanina_Erisim/4.png)
+Phpmyadmin de sql sekmesine tıklayın ve github sayfasında bulunan Tabloya_Veri_Ekleme.sql ve Etkinlikler.sql sorgularını çalıştırın.  
+![](/Veri_Tabanina_Erisim/2.png)  
+![](/Veri_Tabanina_Erisim/3.png)  
+![](/Veri_Tabanina_Erisim/4.png)  
 
 ### Tarayıcıda Projeye Erişim:
 Web tarayıcınızda http://localhost/hobi_kulubu/giris.php adresine giderek projeye erişebilirsiniz.
