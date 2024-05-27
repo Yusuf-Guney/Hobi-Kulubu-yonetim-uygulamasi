@@ -40,6 +40,9 @@ Kullanıcı şifreleri, PHP'nin password_hash fonksiyonu kullanılarak hashlenmi
 Ayrıca, oturum yönetimi için PHP oturumları kullanılmış ve kullanıcıların güvenli bir şekilde giriş yapması sağlanmıştır.
 XAMPP Kurulumu ve Yapılandırması
 
+
+### Hobi Kulübü Yönetim Sistemi'ni XAMPP üzerinde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
 #### XAMPP'i İndirme ve Kurulum:
 
 XAMPP'ı Apache Friends sitesinden indirin ve bilgisayarınıza kurun.
