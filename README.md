@@ -52,7 +52,8 @@ Proje dosyalarınızı XAMPP'ın htdocs dizinine kopyalayın. Örneğin, proje d
 Web tarayıcınızda http://localhost/phpmyadmin adresine gidin.
 
 ### Adım 4 
-Phpmyadmin de sql sekmesine tıklayın ve github sayfasında bulunan Tabloya_Veri_Ekleme.sql ve Etkinlikler.sql sorgularını çalıştırın.<br>  
+Phpmyadmin de sql sekmesine tıklayın ve github sayfasında bulunan Tabloya_Veri_Ekleme.sql ve Etkinlikler.sql sorgularını çalıştırın.(Tabloya_Veri_Ekleme.sql deki sorguyu yükledikten sonra kullanici_kayit tablosuna gidin oradaki sql sekmesine tıkladıktan 
+sonra Etkinlikler.sql sorgusunu çalıştırın)<br>  
 ![](/Veri_Tabanina_Erisim/3.png)  
 ![](/Veri_Tabanina_Erisim/4.png)
 ![](/Veri_Tabanina_Erisim/2.png)<br>
