@@ -43,6 +43,7 @@ XAMPP Kurulumu ve Yapılandırması
 ### Hobi Kulübü Yönetim Sistemi'ni XAMPP üzerinde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 #### Adım 1
 XAMPP'a giriniz ve Apache ve MYSQL'i başlatınız.
+![](Veri_Tabanina_Erisim/1.jpg)
 
 
 #### Tarayıcıda Projeye Erişim:
