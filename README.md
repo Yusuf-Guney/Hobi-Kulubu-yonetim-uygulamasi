@@ -41,12 +41,18 @@ Ayrıca, oturum yönetimi için PHP oturumları kullanılmış ve kullanıcılar
 XAMPP Kurulumu ve Yapılandırması
 
 ### Hobi Kulübü Yönetim Sistemi'ni XAMPP üzerinde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
-#### Adım 1
+### Adım 1
 XAMPP'a giriniz ve Apache ve MYSQL'i başlatınız.
 ![](/Veri_Tabanina_Erisim/1.png)
 
+### Adım 2
+Proje dosyalarınızı XAMPP'ın htdocs dizinine kopyalayın. Örneğin, proje dizininiz hobi_kulubu ise, C:\xampp\htdocs\hobi_kulubu gibi bir yola  kopyalayın.
 
-#### Tarayıcıda Projeye Erişim:
+### Adım 3 
+
+
+
+### Tarayıcıda Projeye Erişim:
 Web tarayıcınızda http://localhost/hobi_kulubu/giris.php adresine giderek projeye erişebilirsiniz.
 ## Örnek Kod Görseli
 ![](Ornek_Kod_Gorseli.jpg)
