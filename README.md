@@ -46,9 +46,13 @@ XAMPP'a giriniz ve Apache ve MYSQL'i başlatınız.
 ![](/Veri_Tabanina_Erisim/1.png)
 
 ### Adım 2
-Proje dosyalarınızı XAMPP'ın htdocs dizinine kopyalayın. Örneğin, proje dizininiz hobi_kulubu ise, C:\xampp\htdocs\hobi_kulubu gibi bir yola  kopyalayın.
+Proje dosyalarınızı XAMPP'ın htdocs dizinine kopyalayın. Örneğin, proje dizininiz hobi_kulubu ise, C:\xampp\htdocs\hobi_kulubu gibi bir yola kopyalayın.
 
 ### Adım 3 
+Web tarayıcınızda http://localhost/phpmyadmin adresine gidin.
+
+### Adım 4 
+Phpmyadmin de sql sekmesine tıklayın ve github sayfasında bulunan Tablo_Olustur.php ve etkinlikler.php sorgularını çalıştırın 
 
 
 
