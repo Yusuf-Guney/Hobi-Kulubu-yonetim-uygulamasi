@@ -65,4 +65,4 @@ Web tarayıcınızda http://localhost/hobi_kulubu/giris.php adresine giderek pro
 ![](Ornek_Kod_Gorseli.jpg)
 
 * [Hobi Kulübü Uygulaması](http://95.130.171.20/~st22360859041/giris.php) - Bu linkten Host ettiğimiz hobi kulübü uygulamamıza ulaşabilirsiniz.
-* [Hobi Kulübü Uygulaması Tanıtım Videosu](https://www.youtube.com/watch?v=pcRtn8Rx_kk&t=6s) - Programın çalışmasına gösteren örnek videoya da yandaki linkten ulaşabilirsiniz
+* [Hobi Kulübü Uygulaması Tanıtım Videosu](https://www.youtube.com/watch?v=cbecXOwslQk) - Programın çalışmasına gösteren örnek videoya da yandaki linkten ulaşabilirsiniz
