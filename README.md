@@ -38,3 +38,6 @@ Kullanıcıların kolayca gezinebileceği ve işlemlerini rahatça gerçekleşti
 ### 6. Güvenlik
 Kullanıcı şifreleri, PHP'nin password_hash fonksiyonu kullanılarak hashlenmiş ve güvenli bir şekilde saklanmıştır. Bu sayede, kullanıcı şifrelerinin güvenliği sağlanmıştır.
 Ayrıca, oturum yönetimi için PHP oturumları kullanılmış ve kullanıcıların güvenli bir şekilde giriş yapması sağlanmıştır.
+
+## Örnek Kod Görseli
+![](Ornek_Kod_Gorseli.jpg)
