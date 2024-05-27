@@ -38,6 +38,31 @@ Kullanıcıların kolayca gezinebileceği ve işlemlerini rahatça gerçekleşti
 ### 6. Güvenlik
 Kullanıcı şifreleri, PHP'nin password_hash fonksiyonu kullanılarak hashlenmiş ve güvenli bir şekilde saklanmıştır. Bu sayede, kullanıcı şifrelerinin güvenliği sağlanmıştır.
 Ayrıca, oturum yönetimi için PHP oturumları kullanılmış ve kullanıcıların güvenli bir şekilde giriş yapması sağlanmıştır.
+XAMPP Kurulumu ve Yapılandırması
+
+#### XAMPP'i İndirme ve Kurulum:
+
+XAMPP'ı Apache Friends sitesinden indirin ve bilgisayarınıza kurun.
+
+####  XAMPP'i Başlatma:
+
+XAMPP Kontrol Panelini açın ve Apache ile MySQL servislerini başlatın.
+
+#### Proje Dosyalarını XAMPP'e Taşıma:
+Proje dosyalarınızı XAMPP'ın htdocs dizinine taşıyın. Örneğin, proje dizininiz hobi_kulubu ise, C:\xampp\htdocs\hobi_kulubu gibi bir yola kopyalayın.
+
+#### Veritabanı Oluşturma ve Yapılandırma:
+Web tarayıcınızda http://localhost/phpmyadmin adresine gidin.
+phpMyAdmin anasayfasında, "New" sekmesine tıklayın ve kullanici_kayit adında yeni bir veritabanı oluşturun.
+Yeni veritabanına tıklayın ve SQL sekmesine gidin. Daha önce sağladığınız Tabloya_Veri_Ekleme.sql dosyasındaki SQL komutlarını kopyalayın ve buraya yapıştırarak çalıştırın. 
+Bu, gerekli tabloları oluşturacaktır.
+Etkinlik tablosunu da eklemek için etkinlik.sql dosyasındaki SQL komutlarını kopyalayın ve SQL sekmesine yapıştırın.
+
+#### Tarayıcıda Projeye Erişim:
+Web tarayıcınızda http://localhost/hobi_kulubu/giris.php adresine giderek projeye erişebilirsiniz.
+
+
+
 
 ## Örnek Kod Görseli
 ![](Ornek_Kod_Gorseli.jpg)
