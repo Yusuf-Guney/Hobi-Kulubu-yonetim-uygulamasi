@@ -1,4 +1,3 @@
-CREATE DATABASE kullanici_kayit; 
 
 USE kullanici_kayit; 
 
