@@ -1,4 +1,5 @@
 ## Hobi Kulübü Yönetim Sistemi
+Bu proje bize basit bir kullanıcı giriş çıkış hizmeti sunmaktadır
 ### 1. Giriş
 Hobi Kulübü Yönetim Sistemi, belirli bir hobiye (örneğin fotoğrafçılık, balıkçılık, bisiklet vb.) odaklanan bir kulübün etkinlik planlaması, üye yönetimi, ekipman paylaşımı ve bilgi alışverişi işlevlerini sağlayan web tabanlı bir uygulamadır.
 Bu sistem, kulüp üyelerinin etkinlikleri kolayca planlamasına, yönetmesine ve üyeler arası iletişimi güçlendirmesine olanak tanır.
